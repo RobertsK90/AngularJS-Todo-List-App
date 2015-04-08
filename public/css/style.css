@@ -1,0 +1,54 @@
+small {
+    color:lightgrey;
+    font-size: 0.7em;
+}
+
+input.todo {
+    border:none;
+}
+
+.strike {
+    text-decoration: line-through;
+    color:grey;
+}
+
+.container {
+    width: 450px;
+}
+
+.title {
+   background: black;
+   color:white;
+}
+
+.glyphicon {
+    color:#000000;
+}
+
+.glyphicon:hover {
+    color:#555555;
+}
+
+input[type="text"]:disabled {
+    background:white;
+}
+
+.btn-primary {
+    background: #000000;
+}
+
+.btn-primary:hover {
+    background:#555555
+}
+
+.glyphicon-search {
+    color:white;
+    padding:3px;
+    margin-left:72px;
+}
+
+input.search {
+    color:black;
+    font-size:0.8em;
+    margin-top:2px;
+}
