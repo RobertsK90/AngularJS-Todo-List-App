@@ -7,7 +7,7 @@ Simple "Todo" list application developed using AngularJS framework.
 * [PHPStorm](https://www.jetbrains.com/phpstorm/)
 * [Composer](https://getcomposer.org/)
 * [Git](http://git-scm.com/downloads)
-* [Xampp](https://www.apachefriends.org/index.html)
+* [Nginx](http://nginx.org/)
 * [AngularJS](https://angularjs.org/)
 * [Laravel](http://laravel.com/)
 * [Laravel Homestead](https://github.com/laravel/homestead)
