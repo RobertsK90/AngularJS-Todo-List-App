@@ -10,6 +10,9 @@ Simple "Todo" list application developed using AngularJS framework.
 * [Xampp](https://www.apachefriends.org/index.html)
 * [AngularJS](https://angularjs.org/)
 * [Laravel](http://laravel.com/)
+* [Laravel Homestead](https://github.com/laravel/homestead)
+* [Vagrant](https://www.vagrantup.com/)
+* [VirtualBox](https://www.virtualbox.org/)
 
 ### Programming languages used in development ###
 
